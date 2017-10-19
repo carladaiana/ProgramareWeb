@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<simpleviewergallery
+	
+	galleryStyle="MODERN"
+	title="Uniunea Europeana"
+	textColor="FFFFFF"
+	frameColor="FFFFFF"
+	frameWidth="20"
+	thumbPosition="LEFT"
+	thumbColumns="3"
+	thumbRows="3"
+	showOpenButton="TRUE"
+	showFullscreenButton="TRUE"	
+	maxImageWidth="940"
+	maxImageHeight="940"
+	useFlickr="false"
+	flickrUserName=""
+	flickrTags=""
+	languageCode="AUTO"
+	languageList=""		
+	imagePath="imagesg/"
+	thumbPath="thumbs/"
+	
+>
+
+<image imageURL="imagesg/foto1.jpg" thumbURL="thumbs/foto1.jpg" linkURL="" linkTarget="" >
+	<caption><![CDATA[]]></caption>	
+</image>
+<image imageURL="imagesg/foto2.jpg" thumbURL="thumbs/foto2.jpg" linkURL="" linkTarget="" >
+	<caption></caption>	
+</image>
+<image imageURL="imagesg/foto3.jpg" thumbURL="thumbs/foto3.jpg" linkURL="" linkTarget="" >
+	<caption></caption>	
+</image>
+<image imageURL="imagesg/foto4.jpg" thumbURL="thumbs/foto4.jpg" linkURL="" linkTarget="" >
+	<caption><![CDATA[]]></caption>	
+</image>
+<image imageURL="imagesg/foto5.jpg" thumbURL="thumbs/foto5.jpg" linkURL="" linkTarget="" >
+	<caption></caption>	
+</image>
+<image imageURL="imagesg/foto6.jpg" thumbURL="thumbs/foto6.jpg" linkURL="" linkTarget="" >
+	<caption><![CDATA[]]></caption>	
+</image>
+<image imageURL="imagesg/foto7.jpg" thumbURL="thumbs/foto7.jpg" linkURL="" linkTarget="" >
+	<caption><![CDATA[]]></caption>	
+</image>
+<image imageURL="imagesg/foto8.jpg" thumbURL="thumbs/foto8.jpg" linkURL="" linkTarget="" >
+	<caption></caption>	
+</image>
+
+
+</simpleviewergallery>
+
